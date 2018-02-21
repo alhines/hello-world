@@ -72,7 +72,7 @@ function curPageURL() {
 }
 
 function connection() {
-    $link = new mysqli("localhost", "root", "", "proyecto1");
+    $link = new mysqli("localhost", "root", "root", "proyecto1");
 
     if($link === false) {
         return $link->connect_error;
