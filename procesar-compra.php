@@ -28,6 +28,6 @@ close_db($conn);
 //Limpia la sesion
 session_unset();
 
-//Destruye la sesion
+//Destruye la sesion final del programa
 session_destroy();
 ?>
