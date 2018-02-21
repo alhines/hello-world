@@ -1,1 +1,1 @@
-<?php // Nothing to see here!!!! ?>
+<?php // Esto es un archivo en blanco!!!! ?>
